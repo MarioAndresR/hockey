@@ -1,2 +1,1 @@
-# hockey
-proyecto de una liga de hockey para Egg
+# Migthy Ducks Hockey League
